@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+*.xls
+*.xlsx
+*.db
+*.csv
+!EVSE/all_CA_shares.csv
+!EVSE/alt_fuel_stations*
+*.docx
+!python_docx.docx
+*.doc
+*.pdf
+*.png
